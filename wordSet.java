@@ -1,5 +1,5 @@
 
-//this code is a modification of the example in the book "CORE JAVA". It's just a practice.
+//this code is a modification of a example in the book "CORE JAVA". It's just a practice.
 //I don't understand why it can read English correctly, but read nothing from a file 
 //contains Chinese, even though the file beginging with English.
 
